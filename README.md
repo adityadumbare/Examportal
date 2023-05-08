@@ -1,5 +1,3 @@
 # Examportal
 
-The ExamPortal project is a web application API developed using Spring Boot. It provides a platform for students and teachers to interact and create/manage exams. The API is designed to be RESTful, scalable, and secure, with user authentication and authorization built in. Ideal for schools seeking to Enhance education with better digital offerings.
-
-For now it is only a backend application.
+Examportal is a secure and robust web-based application developed with Spring Boot, JPA, MySQL, Spring Security, JWT, and Angular. It provides educational institutions with a platform for managing exams and quizzes. The built-in authentication and authorization features ensure data security, making it a reliable solution. Examportal is easy-to-use, and it streamlines the exam process from creating and scheduling exams to generating reports and analyzing results.
